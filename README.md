@@ -1,2 +1,2 @@
-this script use weather data scraped from meteostat and stored in mySQL database to return regression plots for each data sets.
-data are about temperature min and max on 15 Jan and 15 Jul of 20 european capitol city.
+this project is about scraping data temperature from meteostat, save it in a file .csv, organize it in a mysql database, and using scikit-learn and matplotlib return regression analysis plots for each data sets
+
